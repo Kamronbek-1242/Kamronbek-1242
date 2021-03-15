@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kamronbek-1242
+- 👋 Hi, I’m Kamronbek Tufliyev
 - 👀 I’m interested in mathematics, physics.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on ...
